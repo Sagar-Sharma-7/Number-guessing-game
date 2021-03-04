@@ -52,9 +52,6 @@ const randomNum = parseInt((Math.random() * 100));
  <i class="fab fa-github"></i><!-- for github icon -->
 <i class="fas fa-heart" title="love"></i><!--  for heat icon -->
 
-```
-
-
 
  ## Cloning this repositary using command line
  1. Open **Git Bash**.
@@ -77,7 +74,6 @@ const randomNum = parseInt((Math.random() * 100));
 [ ![ForTheBadge makes-people-smile](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/Sagar-Sharma-7)
 
 </p>
-
 
 [![alttext](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sagar-Sharma-7)
 ![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)
