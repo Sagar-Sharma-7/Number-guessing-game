@@ -2,7 +2,7 @@
 ## A Simple Number Guessing Game. You will be given 5 chances to guess a number...
 <br>
 
-## [View Demo]()
+## [View Demo](https://sagar-sharma-7.github.io/Number-guessing-game/)
 
 If you have any crazy idea then please pull request...
 
