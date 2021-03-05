@@ -52,7 +52,7 @@ const randomNum = parseInt((Math.random() * 100));
  <i class="fab fa-github"></i><!-- for github icon -->
 <i class="fas fa-heart" title="love"></i><!--  for heat icon -->
 
-
+```
  ## Cloning this repositary using command line
  1. Open **Git Bash**.
  1. Change the current working directory to the location where you want the cloned directory.
