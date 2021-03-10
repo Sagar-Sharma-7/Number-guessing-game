@@ -2,7 +2,7 @@
 ## A Simple Number Guessing Game. You will be given 5 chances to guess a number...
 <br>
 
-## [View Demo]()
+## [View Demo](https://sagar-sharma-7.github.io/Number-guessing-game/)
 
 If you have any crazy idea then please pull request...
 
@@ -53,9 +53,6 @@ const randomNum = parseInt((Math.random() * 100));
 <i class="fas fa-heart" title="love"></i><!--  for heat icon -->
 
 ```
-
-
-
  ## Cloning this repositary using command line
  1. Open **Git Bash**.
  1. Change the current working directory to the location where you want the cloned directory.
@@ -77,7 +74,6 @@ const randomNum = parseInt((Math.random() * 100));
 [ ![ForTheBadge makes-people-smile](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/Sagar-Sharma-7)
 
 </p>
-
 
 [![alttext](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sagar-Sharma-7)
 ![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)
