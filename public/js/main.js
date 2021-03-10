@@ -34,9 +34,9 @@ start.addEventListener("click", () => {
             info.innerHTML = "You Won!";
             won();
         }else if(guessedNum > randomNum){
-            info.innerHTML = "Too High, Try some lower number...";
+            info.innerHTML = `Wrong, aim for some lower number. <br> Only ${guessLeft} Guesses are left.`;
         }else if(guessedNum < randomNum){
-            info.innerHTML = "Too low, try some higher number...";
+            info.innerHTML = `Wrong, aim for some higher number. <br> Only ${guessLeft} Guesses are left.`;
         } 
     });
 });
